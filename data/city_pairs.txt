@@ -1,0 +1,46 @@
+https://data.gov.au/dataset/international-airlines-traffic-by-city-pairs
+
+This data shows passenger, freight and mail carried by city pair for operations by international scheduled airlines to and from Australia.	
+
+AustralianPort - Australian port where traffic is uplifted or discharged within a single flight number
+ForeignPort - Foreign port where traffic is uplifted or discharged within a single flight number	
+Port_Country - Based on the international uplift or discharge port within a single flight number
+Passengers_In - Passengers inbound to Australia
+Freight_In_(tonnes) - Freight inbound to Australia in tonnes
+Mail_In_(tonnes) - Mail inbound to Australia in tonnes
+Passengers_Out - Passengers outbound from Australia
+Freight_Out_(tonnes) - Freight outbound from Australia in tonnes
+Mail_Out_(tonnes) - Mail outbound from Australia in tonnes
+
+Mail reported for 1985 to 1988 is partial
+
+Air Vanuatu - Traffic carried under code share arrangements may not be included for July 2000 to June 2006. No mail data for August 2007 to July 2010.
+Nauru Airlines & Solomon Airlines - For August 2008 to July 2009, due to code share arrangements, Nauru-Honiara-Brisbane services were shown under Nauru Airlines while Honiara-Brisbane services were shown under Solomon Airlines. Passenger numbers reported by Solomon Airlines were apportioned.
+Vietnam Airlines - The split of inbound passenger movements from Ho Chi Minh City and Hanoi to Sydney has been estimated for June 2010 to March 2014. No data received for inbound operations to Sydney for August 2002 to May 2004, July 2004 to November 2004, January 2005 to March 2005 and May 2005. Data for Outbound operations have been received for July 2003 onwards.
+
+General Notes
+
+These figures were obtained from reports submitted by scheduled international carriers and are the best available at the time of publication.
+These statistics show uplift/discharge data - These data detail, by direction, the revenue traffic between the actual points of uplift and discharge within each flight, aggregated for all flights within the period.  It shows the movement of traffic between two airports not necessarily directly connected but within the same flight number.  Typically, flight numbers change when an aircraft reaches its home country.  This means that uplift/discharge data for the port in the operator's home country are likely to be overstated by traffic whose origin/destination point is beyond that port.  For example, uplift/discharge traffic reported in this publication as Singapore could include traffic whose origin/destination is Europe.
+
+These statistics cover revenue traffic carried by the operators of scheduled regular public international air transport services only and do not include charter traffic.
+
+Revenue passenger definition:
+For July 2000 and onwards: All passengers paying any fare (frequent flyer redemption passengers are regarded as revenue passengers). In most cases, Revenue Passengers will now include all passengers excluding Free Of Charge passengers and positioning crew.
+To December 1999: The aggregate of all passengers paying 25% or more of the standard air fare (as defined by ICAO at the time).
+January 2000 to June 2000: Transition period.
+
+Country and City data - reporting of Uplift/Discharge data by Qantas Airways:	
+Prior to January 2003: Uplift/Discharge within Qantas Airways' international network.
+For January 2003 and onwards: Uplift/Discharge within flight number - as per the standard definition.
+For example, what was reported as Adelaide to London in January 2002 (no direct services between these two cities), would be reported in January 2003 as either Adelaide to Singapore or Melbourne/Sydney to London.	
+This change was introduced in order to make the data comparable across all airlines operating services to/from Australia.	
+The effect of this change - comparing data under the two methods of reporting:	
+Country of Port data - There will be a shift in traffic to countries such as Singapore and United Arab Emirates (from 2013) which are used as hubs and away from countries such as France, Germany and Italy which previously received traffic channelled through hubs. The total volume of traffic is not affected.
+City Pairs - There will be a shift in traffic to cities such as Singapore and Dubai (from 2013) which are used as hubs and away from cities such as Paris, Frankfurt and Rome which previously received traffic channelled through hubs. The total volume of traffic is not affected. 
+Prior to the change, statistics reported for city pairs without "single flight number" international flight connections mainly reflected carriage on interconnecting international services by Qantas Airways. That traffic should have been interpreted as increasing the volume of traffic between the primary international ports rather than as an indicator of traffic volumes between ports without "single flight number" international flight connections. It should be noted however, that there was no double counting of traffic.
+
+Reporting of code share services:
+Reporting of traffic split by airline code for code share arrangements was discontinued as of June 2000. For July 2000 and onwards, ALL traffic carried is reported under the operating airline regardless of code share arrangements.
+
+The Bureau of Infrastructure, Transport and Regional Economics has taken due care in preparing the information contained in this publication. However, noting that data have been provided by third parties, the Commonwealth gives no warranty as to the accuracy, reliability, fitness for purpose, or otherwise of the information.
